@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0071a043-574c-45da-a959-2b0d8df4e9e3" name="Changes" comment="fix ui price">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/system/SystemApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/system/SystemApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/system/config/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/system/config/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2e4ujRFmM9f0h1z7Q2B121RjEKZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SystemApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;ThienBE&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thien/OneDrive/Máy tính/FPT University/CN7/SWP/Civil-housing-construction-quotation-system/Back-end&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.SystemApplication">
+    <configuration name="dataScript.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/dataScript.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="cb12a71c-a11c-4b5f-970f-4057345f9b1a" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.system.SystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.dataScript.sql" />
+        <item itemvalue="Database Script.dataScript.sql" />
+        <item itemvalue="Database Script.dataScript.sql" />
+        <item itemvalue="Database Script.dataScript.sql" />
+        <item itemvalue="Database Script.dataScript.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0071a043-574c-45da-a959-2b0d8df4e9e3" name="Changes" comment="" />
+      <created>1711176305924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711176305924</updated>
+      <workItem from="1711176307116" duration="705000" />
+      <workItem from="1711259287521" duration="1487000" />
+      <workItem from="1711290562243" duration="1407000" />
+      <workItem from="1711292052914" duration="7854000" />
+      <workItem from="1711336105507" duration="9178000" />
+      <workItem from="1711384020241" duration="7025000" />
+      <workItem from="1711422398840" duration="772000" />
+      <workItem from="1711423270813" duration="17933000" />
+      <workItem from="1711455126244" duration="5531000" />
+      <workItem from="1711462552643" duration="5955000" />
+      <workItem from="1711484558527" duration="3227000" />
+      <workItem from="1711779298594" duration="4117000" />
+      <workItem from="1711868336324" duration="5097000" />
+      <workItem from="1711909431599" duration="405000" />
+      <workItem from="1712057736060" duration="1978000" />
+      <workItem from="1712063750644" duration="1216000" />
+      <workItem from="1712153161133" duration="1506000" />
+      <workItem from="1712226339079" duration="740000" />
+      <workItem from="1712240373065" duration="3141000" />
+      <workItem from="1712473207997" duration="19000" />
+      <workItem from="1715334434834" duration="2828000" />
+      <workItem from="1715391743780" duration="47000" />
+      <workItem from="1715404194938" duration="2723000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix security">
+      <option name="closed" value="true" />
+      <created>1711423633039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711423633039</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix security">
+      <option name="closed" value="true" />
+      <created>1711428338991</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711428338991</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix security">
+      <option name="closed" value="true" />
+      <created>1711428348722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711428348722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix package.json">
+      <option name="closed" value="true" />
+      <created>1711429588611</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711429588611</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix ui price">
+      <option name="closed" value="true" />
+      <created>1711444083912</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711444083912</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix security" />
+    <MESSAGE value="fix package.json" />
+    <MESSAGE value="fix ui price" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix ui price" />
+  </component>
+</project>
