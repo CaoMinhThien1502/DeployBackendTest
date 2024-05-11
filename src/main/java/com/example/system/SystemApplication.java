@@ -33,6 +33,7 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 				)
 		),
 		servers = {
+				@Server(url = "genuine-laughter-production.up.railway.app", description = "Default Server URL"),
 				@Server(url = "http://localhost:8080/", description = "Default Server URL")
 		}
 )
